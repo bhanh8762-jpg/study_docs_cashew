@@ -3,7 +3,7 @@
 
 - **Sinh viên:** ............................................ **MSSV:** ....................
 - **Lớp / Nhóm:** ..........................................
-- **Link GitHub:** https://github.com/<tài-khoản>/study_docs_cashew
+- **Link GitHub:** https://github.com/bhanh8762-jpg/study_docs_cashew
 - **Công nghệ:** Flutter 3.47 / Dart 3.13, `shared_preferences`, `flutter_test`, VS Code, GitHub Actions
 
 ---
